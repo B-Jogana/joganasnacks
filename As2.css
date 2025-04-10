@@ -17,11 +17,7 @@ body{
    height:  50vh;
    margin: 0 auto;
    
-    border-radius: 10px;
-    background-color: white;
-    border: 2px solid #ccc;
-    border-spacing: -10px;
-}
+   
  
 
 .gallery img{
